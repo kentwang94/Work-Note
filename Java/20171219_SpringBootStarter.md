@@ -12,7 +12,7 @@ JSP doesn't contain main function, which means it requires an outside container 
 
 Example:
 
-```html
+```jsp
 <html>
   <body>
     <center>Now time is: <%=new java.util.Date()%></center>
